@@ -1,2 +1,3 @@
-# Rock-Paper-Scissors
-Rock Paper Scissors using Javascript
+# Project using Javascript
+Working Project of Javascript
+
